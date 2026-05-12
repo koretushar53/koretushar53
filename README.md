@@ -21,9 +21,10 @@
 ---
 
 # 🛠️ Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,flask,django,java,mysql,firebase,git,github,tensorflow,vscode"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=koretushar53&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koretushar53&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
