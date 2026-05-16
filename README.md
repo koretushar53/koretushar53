@@ -1,20 +1,17 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=100&lines=Hey%2C+I'm+Tushar+Kore;AI+%2B+Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning%2C+Always+Building;">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=100&lines=Hey%2C+I'm+Tushar+Kore;AI+%2B+Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning%2C+Always+Building;">
 </picture>
 
-<!-- Animated Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4680-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3">
 
-<!-- Status Badge -->
 <div align="center">
   <a href="https://github.com/koretushar53">
     <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="Status">
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/tushar-kore-1053692bb">
     <img src="https://img.shields.io/badge/Learning-AI%20%26%20ML-06b6d4?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a2e" alt="Learning">
   </a>
   <a href="https://github.com/koretushar53">
@@ -24,8 +21,7 @@
 
 <br>
 
-<!-- Profile Picture & Bio -->
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWoLvq1/giphy.gif" width="200" style="border-radius: 50%; border: 2px solid #00FF41; box-shadow: 0 0 20px rgba(0, 255, 65, 0.5);">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWoLvq1/giphy.gif" width="200" style="border-radius: 50%;">
 
 ### 💫 Welcome to My Digital Universe
 
@@ -107,28 +103,6 @@ def create_impact():
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
-<br>
-
-**Proficiency Level:** 
-<div style="display: flex; justify-content: center; gap: 15px; margin-top: 15px;">
-  <div>
-    <strong>Python</strong><br>
-    <img src="https://img.shields.io/badge/████████████░░-90%25-00FF41?style=flat" alt="Python">
-  </div>
-  <div>
-    <strong>Web Dev</strong><br>
-    <img src="https://img.shields.io/badge/██████████░░░░-75%25-00FF41?style=flat" alt="Web Dev">
-  </div>
-  <div>
-    <strong>AI/ML</strong><br>
-    <img src="https://img.shields.io/badge/███████████░░░-85%25-00FF41?style=flat" alt="AI/ML">
-  </div>
-  <div>
-    <strong>DevOps</strong><br>
-    <img src="https://img.shields.io/badge/█████████░░░░░-70%25-00FF41?style=flat" alt="DevOps">
-  </div>
-</div>
-
 </div>
 
 ---
@@ -154,19 +128,13 @@ def create_impact():
 </table>
 
 ### 🔥 GitHub Streak
-<div style="margin: 20px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koretushar53&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&currStreakLabel=00ff41&sideNums=c9d1d9&sideLabels=888d97&dates=888d97" alt="GitHub Streak" width="100%">
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=koretushar53&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&currStreakLabel=00ff41&sideNums=c9d1d9&sideLabels=888d97&dates=888d97" alt="GitHub Streak" width="100%">
 
 ### 🏆 Achievements & Trophies
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=koretushar53&theme=tokyonight&no-bg=true&no-frame=true&margin-w=5&column=4" alt="GitHub Trophies" width="100%">
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=koretushar53&theme=tokyonight&no-bg=true&no-frame=true&margin-w=5&column=4" alt="GitHub Trophies" width="100%">
 
 ### 📈 Contribution Graph
-<div style="margin: 20px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koretushar53&theme=tokyo-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&hide_border=true" alt="Contribution Graph" width="100%">
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=koretushar53&theme=tokyo-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&hide_border=true" alt="Contribution Graph" width="100%">
 
 </div>
 
@@ -180,29 +148,29 @@ def create_impact():
 
 </div>
 
-<!-- Project 1 -->
+<!-- Project 1: FRIDAY BOOK Recommender -->
 <div align="center">
-<table width="100%" style="border: 2px solid #00FF41; border-radius: 10px; overflow: hidden; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 255, 65, 0.1) 0%, rgba(6, 182, 212, 0.1) 100%); backdrop-filter: blur(10px);">
+<table width="100%">
 <tr>
 <td style="padding: 25px; text-align: center;">
 
 ### 📚 FRIDAY BOOK Recommender
-<img src="https://img.shields.io/badge/AI%20Powered-FF6B6B?style=flat-square&logo=github" alt="AI Powered">
+<img src="https://img.shields.io/badge/Book%20Recommender-FF6B6B?style=flat-square&logo=github" alt="Book Recommender">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="ML">
 
-**Intelligent book recommendation system powered by Machine Learning**
+**A book suggestion website powered by Machine Learning**
 
-An advanced recommendation engine that analyzes user preferences and suggests books using cutting-edge ML algorithms. Built with Python, Flask, and state-of-the-art data processing libraries.
+An intelligent book recommendation web app that helps users discover their next great read. Built with Python and ML algorithms, it analyzes preferences to surface personalized book suggestions.
 
 #### 🛠️ Tech Stack
-`Python` `Flask` `Machine Learning` `Pandas` `NumPy` `Scikit-Learn` `Data Analysis`
+`Python` `Flask` `Machine Learning` `Pandas` `NumPy` `Scikit-Learn`
 
 #### ✨ Key Features
-- 🤖 ML-powered recommendation algorithm
-- 📊 Advanced data processing with Pandas & NumPy
-- 🎯 Personalized suggestions
-- 📈 Real-time analytics
+- 📖 Personalized book suggestions
+- 🤖 ML-powered recommendation engine
+- 📊 Data processing with Pandas & NumPy
+- 🌐 Web interface for easy browsing
 
 <a href="https://github.com/koretushar53/FRIDAY-BOOK-Recommender">
   <img src="https://img.shields.io/badge/View%20Repository-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="View Repo">
@@ -213,29 +181,29 @@ An advanced recommendation engine that analyzes user preferences and suggests bo
 </table>
 </div>
 
-<!-- Project 2 -->
+<!-- Project 2: Veronica -->
 <div align="center">
-<table width="100%" style="border: 2px solid #06b6d4; border-radius: 10px; overflow: hidden; margin: 20px 0; background: linear-gradient(135deg, rgba(6, 182, 212, 0.1) 0%, rgba(59, 130, 246, 0.1) 100%); backdrop-filter: blur(10px);">
+<table width="100%">
 <tr>
 <td style="padding: 25px; text-align: center;">
 
-### 🤖 Veronica - Smart AI Assistant
-<img src="https://img.shields.io/badge/AI%20Assistant-FF6B6B?style=flat-square&logo=github" alt="AI Assistant">
+### 🎬 Veronica - Movie Suggestion Website
+<img src="https://img.shields.io/badge/Movie%20Recommender-FF6B6B?style=flat-square&logo=github" alt="Movie Recommender">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square" alt="Automation">
+<img src="https://img.shields.io/badge/Web%20App-06b6d4?style=flat-square" alt="Web App">
 
-**Intelligent automation assistant with advanced AI capabilities**
+**A movie suggestion website built with Python**
 
-A comprehensive AI assistant that leverages APIs and automation to provide intelligent interactions. Designed to handle complex workflows and deliver smart, context-aware responses.
+Veronica is a movie recommendation web app that helps users discover films they'll love. It uses Python on the backend to power smart movie suggestions based on user preferences.
 
 #### 🛠️ Tech Stack
-`Python` `AI` `APIs` `Automation` `NLP` `Intent Recognition` `Task Automation`
+`Python` `Flask` `HTML/CSS` `APIs` `Data Processing`
 
 #### ✨ Key Features
-- 🧠 Advanced AI algorithms
-- 🔌 Multiple API integrations
-- ⚙️ Workflow automation
-- 💬 Natural language processing
+- 🎥 Smart movie recommendations
+- 🔍 Browse and discover films
+- ⚡ Fast Python backend
+- 🌐 Clean web interface
 
 <a href="https://github.com/koretushar53/Veronica">
   <img src="https://img.shields.io/badge/View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=black" alt="View Repo">
@@ -246,9 +214,9 @@ A comprehensive AI assistant that leverages APIs and automation to provide intel
 </table>
 </div>
 
-<!-- Project 3 -->
+<!-- Project 3: Zimmo -->
 <div align="center">
-<table width="100%" style="border: 2px solid #10b981; border-radius: 10px; overflow: hidden; margin: 20px 0; background: linear-gradient(135deg, rgba(16, 185, 129, 0.1) 0%, rgba(34, 197, 94, 0.1) 100%); backdrop-filter: blur(10px);">
+<table width="100%">
 <tr>
 <td style="padding: 25px; text-align: center;">
 
@@ -259,10 +227,10 @@ A comprehensive AI assistant that leverages APIs and automation to provide intel
 
 **Full-featured ML web application with intelligent backend**
 
-A production-grade web application that combines Flask with machine learning models. Provides seamless user experience with sophisticated ML operations running on the backend.
+A production-grade web application that combines Flask with machine learning models. Provides a seamless user experience with sophisticated ML operations on the backend.
 
 #### 🛠️ Tech Stack
-`Python` `Flask` `Machine Learning` `HTML/CSS` `Frontend Integration` `Database` `APIs`
+`Python` `Flask` `Machine Learning` `HTML/CSS` `Database` `APIs`
 
 #### ✨ Key Features
 - 🌐 Responsive web interface
@@ -279,9 +247,9 @@ A production-grade web application that combines Flask with machine learning mod
 </table>
 </div>
 
-<!-- Project 4 -->
+<!-- Project 4: AI Mock Interviewer -->
 <div align="center">
-<table width="100%" style="border: 2px solid #f59e0b; border-radius: 10px; overflow: hidden; margin: 20px 0; background: linear-gradient(135deg, rgba(245, 158, 11, 0.1) 0%, rgba(249, 115, 22, 0.1) 100%); backdrop-filter: blur(10px);">
+<table width="100%">
 <tr>
 <td style="padding: 25px; text-align: center;">
 
@@ -292,7 +260,7 @@ A production-grade web application that combines Flask with machine learning mod
 
 **Intelligent interview preparation system with resume analysis**
 
-An AI-powered mock interview system that analyzes resumes and generates HR-style interview questions. Perfect for interview preparation and skill assessment with natural language processing.
+An AI-powered mock interview system that analyzes resumes and generates HR-style interview questions. Perfect for interview preparation and skill assessment using natural language processing.
 
 #### 🛠️ Tech Stack
 `Python` `NLP` `Firebase` `AI` `Resume Parsing` `Question Generation` `ML Models`
@@ -304,9 +272,8 @@ An AI-powered mock interview system that analyzes resumes and generates HR-style
 - 📊 Performance feedback
 - 💾 Firebase backend
 
-<a href="#">
-  <img src="https://img.shields.io/badge/View%20Repository-F59E0B?style=for-the-badge&logo=github&logoColor=black" alt="View Repo">
-</a>
+<!-- Update this link once the repo is made public -->
+<img src="https://img.shields.io/badge/Coming%20Soon-F59E0B?style=for-the-badge&logo=github&logoColor=black" alt="Coming Soon">
 
 </td>
 </tr>
@@ -325,23 +292,15 @@ An AI-powered mock interview system that analyzes resumes and generates HR-style
 
 ### 📱 Social Profiles & Contact
 
-<a href="https://linkedin.com/in/tushar-kore">
+<!-- ✅ CORRECTED: LinkedIn URL updated to actual profile -->
+<a href="https://www.linkedin.com/in/tushar-kore-1053692bb">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" alt="LinkedIn">
 </a>
 <a href="mailto:koretushar53@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000" alt="Email">
 </a>
-<a href="https://twitter.com">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000" alt="Twitter">
-</a>
 <a href="https://github.com/koretushar53">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000" alt="GitHub">
-</a>
-<a href="https://portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white&labelColor=000" alt="Portfolio">
-</a>
-<a href="https://dev.to">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000" alt="Dev.to">
 </a>
 
 <br><br>
@@ -358,21 +317,9 @@ I'm always interested in:
 
 ```
 📧 Email: koretushar53@gmail.com
-🔗 LinkedIn: linkedin.com/in/tushar-kore
+🔗 LinkedIn: linkedin.com/in/tushar-kore-1053692bb
 📱 GitHub: github.com/koretushar53
 ```
-
-</div>
-
----
-
-## 📈 Latest Activity
-
-<div align="center">
-
-### 🔄 Recent Work
-![](https://github-readme-stats.vercel.app/api/pin/?username=koretushar53&repo=FRIDAY-BOOK-Recommender&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)
-![](https://github-readme-stats.vercel.app/api/pin/?username=koretushar53&repo=Veronica&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)
 
 </div>
 
@@ -431,34 +378,6 @@ Continuously expanding knowledge in cutting-edge tech domains
 
 ---
 
-## 📊 Contribution Statistics
-
-<div align="center">
-
-### 💬 Code Activity
-<img src="https://img.shields.io/badge/Total%20Repositories-20+-FF6B6B?style=flat-square" alt="Repos">
-<img src="https://img.shields.io/badge/Total%20Commits-500+-00FF41?style=flat-square" alt="Commits">
-<img src="https://img.shields.io/badge/Pull%20Requests-50+-0EA5E9?style=flat-square" alt="PRs">
-<img src="https://img.shields.io/badge/Open%20Source-Active-10B981?style=flat-square" alt="Open Source">
-
-</div>
-
----
-
-## 🔔 Recent Updates
-
-<div align="center">
-
-> 🚀 **Latest:** Continuously working on AI/ML projects and open-source contributions
->
-> 📌 **Currently:** Developing intelligent systems and exploring new ML frameworks
->
-> 🎯 **Next:** Building more scalable solutions and contributing to the developer community
-
-</div>
-
----
-
 ## 🌟 Support & Contributions
 
 <div align="center">
@@ -481,7 +400,6 @@ Continuously expanding knowledge in cutting-edge tech domains
 
 <div align="center">
 
-<!-- Visitor Counter -->
 <img src="https://profile-counter.glitch.me/koretushar53/count.svg" alt="Visitor Count" style="height: 30px;">
 
 <br><br>
@@ -501,18 +419,12 @@ Continuously expanding knowledge in cutting-edge tech domains
 ╚════════════════════════════════════════════════════════════╝
 ```
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4680-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3">
-
-<div style="margin-top: 20px;">
 
 **Made with ❤️ by Tushar Kore**
 
-**Last Updated:** 2024 | **Profile Version:** 3.0 (Ultra Premium Edition)
+**Last Updated:** 2025 | **Profile Version:** 4.0
 
 *This profile is constantly evolving. Check back soon for updates!*
-
-</div>
 
 </div>
