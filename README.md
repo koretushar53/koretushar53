@@ -410,12 +410,12 @@ Continuously expanding knowledge in cutting-edge tech domains
 
 ```
 ╔════════════════════════════════════════════════════════════╗
-║  💫 Thank you for visiting my GitHub profile! 💫           ║
+║  💫 Thank you for visiting my GitHub profile! 💫          ║
 ║                                                            ║
-║  Let's build something amazing together!                  ║
-║  Feel free to reach out, collaborate, and contribute.     ║
+║  Let's build something amazing together!                   ║
+║  Feel free to reach out, collaborate, and contribute.      ║
 ║                                                            ║
-║  Happy coding! 🚀                                          ║
+║  Happy coding! 🚀                                         ║
 ╚════════════════════════════════════════════════════════════╝
 ```
 
