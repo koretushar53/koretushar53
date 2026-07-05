@@ -61,28 +61,28 @@ specialties = {
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
+![snake gif](https://raw.githubusercontent.com/koretushar53/koretushar53/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/koretushar53/koretushar53/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
+
+<div align="center">
 <table>
 <tr>
 <td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koretushar53&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)
-
-</td>
-<td>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koretushar53&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
+![Trophies](https://github-profile-trophy.vercel.app/?username=koretushar53&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4)
 
 </td>
 </tr>
 </table>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=koretushar53&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&currStreakLabel=00ff41&sideNums=c9d1d9&sideLabels=888d97&dates=888d97)
-
 </div>
+
+> **Setup note:** the snake animation above needs a one-time GitHub Action added to your `koretushar53/koretushar53` profile repo — see `snake.yml` (provided alongside this file). Once it runs once, the SVG URLs above will render live. Until then, GitHub will just show a broken image for those two lines, so add the workflow before pushing this README.
 
 ---
 
