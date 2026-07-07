@@ -61,28 +61,6 @@ specialties = {
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/koretushar53/koretushar53/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://raw.githubusercontent.com/koretushar53/koretushar53/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=koretushar53&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4)
-
-</td>
-</tr>
-</table>
-</div>
-
-> **Setup note:** the snake animation above needs a one-time GitHub Action added to your `koretushar53/koretushar53` profile repo — see `snake.yml` (provided alongside this file). Once it runs once, the SVG URLs above will render live. Until then, GitHub will just show a broken image for those two lines, so add the workflow before pushing this README.
 
 ---
 
